@@ -2,56 +2,56 @@
 <testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-19T10:55:03 IST" name="Default suite" finished-at="2024-02-19T11:02:02 IST" duration-ms="419357">
+  <suite started-at="2024-03-04T10:03:29 IST" name="Default suite" finished-at="2024-03-04T10:06:34 IST" duration-ms="184412">
     <groups>
     </groups>
-    <test started-at="2024-02-19T10:55:03 IST" name="Default test" finished-at="2024-02-19T11:02:02 IST" duration-ms="419357">
-      <class name="com.apollo2.apollo2_Homepage.Colab_Homepage">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.apollo2.apollo2_Homepage.Colab_Homepage@66d3eec0]" started-at="2024-02-19T10:55:03 IST" name="setup" finished-at="2024-02-19T10:55:05 IST" duration-ms="1738" status="PASS">
+    <test started-at="2024-03-04T10:03:29 IST" name="Default test" finished-at="2024-03-04T10:06:34 IST" duration-ms="184412">
+      <class name="com.apollo2.apollo2_Homepage.sanitytesting">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.apollo2.apollo2_Homepage.sanitytesting@21282ed8]" started-at="2024-03-04T10:03:29 IST" name="setup" finished-at="2024-03-04T10:03:30 IST" duration-ms="770" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testSanity()[pri:1, instance:com.apollo2.apollo2_Homepage.Colab_Homepage@66d3eec0]" started-at="2024-02-19T10:55:05 IST" name="testSanity" finished-at="2024-02-19T10:55:05 IST" duration-ms="587" status="PASS">
+        <test-method signature="testSanity()[pri:1, instance:com.apollo2.apollo2_Homepage.sanitytesting@21282ed8]" started-at="2024-03-04T10:03:30 IST" name="testSanity" finished-at="2024-03-04T10:03:33 IST" duration-ms="2614" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSanity -->
-        <test-method signature="homepagecontent()[pri:2, instance:com.apollo2.apollo2_Homepage.Colab_Homepage@66d3eec0]" started-at="2024-02-19T10:55:05 IST" name="homepagecontent" finished-at="2024-02-19T10:55:06 IST" duration-ms="366" status="PASS">
+        <test-method signature="homepagecontent()[pri:2, instance:com.apollo2.apollo2_Homepage.sanitytesting@21282ed8]" started-at="2024-03-04T10:03:33 IST" name="homepagecontent" finished-at="2024-03-04T10:03:34 IST" duration-ms="1036" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homepagecontent -->
-        <test-method signature="homepagePeople()[pri:3, instance:com.apollo2.apollo2_Homepage.Colab_Homepage@66d3eec0]" started-at="2024-02-19T10:55:06 IST" name="homepagePeople" finished-at="2024-02-19T10:56:04 IST" duration-ms="57947" status="PASS">
+        <test-method signature="homepagePeople()[pri:3, instance:com.apollo2.apollo2_Homepage.sanitytesting@21282ed8]" started-at="2024-03-04T10:03:34 IST" name="homepagePeople" finished-at="2024-03-04T10:04:37 IST" duration-ms="63573" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homepagePeople -->
-        <test-method signature="homepagehighlights()[pri:4, instance:com.apollo2.apollo2_Homepage.Colab_Homepage@66d3eec0]" started-at="2024-02-19T10:56:04 IST" name="homepagehighlights" finished-at="2024-02-19T10:56:31 IST" duration-ms="26985" status="PASS">
+        <test-method signature="homepagehighlights()[pri:4, instance:com.apollo2.apollo2_Homepage.sanitytesting@21282ed8]" started-at="2024-03-04T10:04:37 IST" name="homepagehighlights" finished-at="2024-03-04T10:05:05 IST" duration-ms="27352" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homepagehighlights -->
-        <test-method signature="Dataportal()[pri:5, instance:com.apollo2.apollo2_Homepage.Colab_Homepage@66d3eec0]" started-at="2024-02-19T10:56:31 IST" name="Dataportal" finished-at="2024-02-19T10:56:37 IST" duration-ms="6154" status="PASS">
+        <test-method signature="Dataportal()[pri:5, instance:com.apollo2.apollo2_Homepage.sanitytesting@21282ed8]" started-at="2024-03-04T10:05:05 IST" name="Dataportal" finished-at="2024-03-04T10:05:12 IST" duration-ms="6766" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Dataportal -->
-        <test-method signature="Homenewsandevents()[pri:6, instance:com.apollo2.apollo2_Homepage.Colab_Homepage@66d3eec0]" started-at="2024-02-19T10:56:37 IST" name="Homenewsandevents" finished-at="2024-02-19T10:56:46 IST" duration-ms="8890" status="PASS">
+        <test-method signature="Homenewsandevents()[pri:6, instance:com.apollo2.apollo2_Homepage.sanitytesting@21282ed8]" started-at="2024-03-04T10:05:12 IST" name="Homenewsandevents" finished-at="2024-03-04T10:05:21 IST" duration-ms="9698" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Homenewsandevents -->
-        <test-method signature="Homecareer()[pri:7, instance:com.apollo2.apollo2_Homepage.Colab_Homepage@66d3eec0]" started-at="2024-02-19T10:56:46 IST" name="Homecareer" finished-at="2024-02-19T10:57:38 IST" duration-ms="52105" status="PASS">
+        <test-method signature="Homecareer()[pri:7, instance:com.apollo2.apollo2_Homepage.sanitytesting@21282ed8]" started-at="2024-03-04T10:05:21 IST" name="Homecareer" finished-at="2024-03-04T10:06:12 IST" duration-ms="50366" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Homecareer -->
-        <test-method signature="homegallery()[pri:8, instance:com.apollo2.apollo2_Homepage.Colab_Homepage@66d3eec0]" started-at="2024-02-19T10:57:38 IST" name="homegallery" finished-at="2024-02-19T10:57:47 IST" duration-ms="9023" status="PASS">
+        <test-method signature="homegallery()[pri:8, instance:com.apollo2.apollo2_Homepage.sanitytesting@21282ed8]" started-at="2024-03-04T10:06:12 IST" name="homegallery" finished-at="2024-03-04T10:06:20 IST" duration-ms="8439" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homegallery -->
-        <test-method signature="Homecontacts()[pri:9, instance:com.apollo2.apollo2_Homepage.Colab_Homepage@66d3eec0]" started-at="2024-02-19T10:57:47 IST" name="Homecontacts" finished-at="2024-02-19T11:02:01 IST" duration-ms="254526" status="PASS">
+        <test-method signature="Homecontacts()[pri:9, instance:com.apollo2.apollo2_Homepage.sanitytesting@21282ed8]" started-at="2024-03-04T10:06:20 IST" name="Homecontacts" finished-at="2024-03-04T10:06:34 IST" duration-ms="13567" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Homecontacts -->
-        <test-method is-config="true" signature="close()[pri:0, instance:com.apollo2.apollo2_Homepage.Colab_Homepage@66d3eec0]" started-at="2024-02-19T11:02:01 IST" name="close" finished-at="2024-02-19T11:02:02 IST" duration-ms="1003" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:com.apollo2.apollo2_Homepage.sanitytesting@21282ed8]" started-at="2024-03-04T10:06:34 IST" name="close" finished-at="2024-03-04T10:06:34 IST" duration-ms="192" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- com.apollo2.apollo2_Homepage.Colab_Homepage -->
+      </class> <!-- com.apollo2.apollo2_Homepage.sanitytesting -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
