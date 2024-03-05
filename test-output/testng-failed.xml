@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.apollo2.apollo2_Homepage.sanitytesting">
+      <class name="com.apollo2.apollo2_Homepage.RandD_link">
         <methods>
           <include name="setup"/>
-          <include name="tearDown"/>
-          <include name="testSanity"/>
+          <include name="publications_link6"/>
+          <include name="publications_link7"/>
+          <include name="close"/>
         </methods>
-      </class> <!-- com.apollo2.apollo2_Homepage.sanitytesting -->
+      </class> <!-- com.apollo2.apollo2_Homepage.RandD_link -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
