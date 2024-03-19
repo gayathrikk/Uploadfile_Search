@@ -3,14 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.apollo2.apollo2_Homepage.RandD_link">
+      <class name="com.apollo2.apollo2_Homepage.Uploadfile_search">
         <methods>
+          <include name="uploadImage"/>
+          <include name="login"/>
           <include name="setup"/>
-          <include name="publications_link6"/>
-          <include name="publications_link7"/>
-          <include name="close"/>
+          <include name="testExtract"/>
+          <include name="afterTest"/>
         </methods>
-      </class> <!-- com.apollo2.apollo2_Homepage.RandD_link -->
+      </class> <!-- com.apollo2.apollo2_Homepage.Uploadfile_search -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
