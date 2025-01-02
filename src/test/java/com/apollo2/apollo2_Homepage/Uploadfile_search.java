@@ -49,8 +49,7 @@ public class Uploadfile_search {
 
 //		URL url = new URL("http://172.20.23.7:5555/wd/hub");
 
-		URL url = new URL("http:// 172.20.23.90:4444/");
-
+		 URL url = new URL("http://172.20.23.92:4444/wd/hub");
 		driver = new RemoteWebDriver(url, dc);
 
 		wait = new WebDriverWait(driver, 30);
